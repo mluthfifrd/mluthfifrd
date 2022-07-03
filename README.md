@@ -7,6 +7,12 @@
 - I'm a student majoring in Informatics Engineering
 - 📫 How to reach me: you can contact me on Instagram @mluthfifarid
 
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
 <p align="left">
 <a href="https://github.com/mluthfifarid">
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mluthfifarid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -14,14 +20,6 @@
 </a>
 </p>
 
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mluthfifarid&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-<hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mluthfifarid&theme=gruvbox&hide_border=true&area=true)
 
 ## Terima Kasih telah berkunjung ke github saya
