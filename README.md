@@ -7,19 +7,11 @@
 - I'm a student majoring in Informatics Engineering
 - 📫 How to reach me: you can contact me on Instagram @mluthfifarid
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 <p align="left">
 <a href="https://github.com/mluthfifarid">
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mluthfifarid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mluthfifarid&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
 
 ## Terima Kasih telah berkunjung ke github saya
