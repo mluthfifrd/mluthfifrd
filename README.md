@@ -1,10 +1,11 @@
 ### Hello 👋
 
 - 👋 Hi, I’m Muhamad Luthfi Farid Sidik
-- 👀 I’m interested in Back ends Web Developer
+- 👀 I’m interested in Web Developer (Backend)
 - I'm a student majoring in Informatics Engineering
 - 📫 How to reach me: you can contact me on Instagram @mluthfifarid
 
+gracias por visitar mi github
 
 <p align="left">
 <a href="https://github.com/mluthfifarid">
