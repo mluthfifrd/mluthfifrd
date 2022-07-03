@@ -5,7 +5,7 @@
 - I'm a student majoring in Informatics Engineering
 - 📫 How to reach me: you can contact me on Instagram @mluthfifarid
 
-gracias por visitar mi github
+##gracias por visitar mi github
 
 <p align="left">
 <a href="https://github.com/mluthfifarid">
