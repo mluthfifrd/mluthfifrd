@@ -1,9 +1,9 @@
 ### Hello 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4693db&size=30&lines=Hey!+It's+Luthfi!;I'm+a+Web+Developer...;Interested+in+Backend;And+I+am+Indonesian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4693db&size=30&lines=Hey!+It's+Luthfi!;I'm+a+Web+Developer...;And+I+am+Indonesian)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Muhamad Luthfi Farid Sidik
-- 👀 I’m interested in Web Developer (Backend)
+- 👀 I’m interested in Web Developer
 - I'm a student majoring in Informatics Engineering
 - 📫 How to reach me: you can contact me on Instagram @mluthfifarid
 
