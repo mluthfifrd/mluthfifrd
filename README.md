@@ -14,4 +14,4 @@
 </a>
 </p>
 
-## Terima Kasih telah berkunjung ke github saya
+## Thanks for visiting my github
