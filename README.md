@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4693db&size=30&lines=Hey!+It's+Luthfi!;I'm+a+junior+Software+Dev...;And+I+am+Indonesian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4693db&size=30&lines=Hey!+It's+Luthfi!;I'm+a+junior+Software+Dev;And+I+am+Indonesian)](https://git.io/typing-svg)
 
 <p align="left">
 <a href="https://github.com/mluthfifarid">
