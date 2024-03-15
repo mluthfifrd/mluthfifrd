@@ -54,6 +54,6 @@
 
 ###
 
-![snake animation](https://github.com/mluthfifrd/mluthfifrd/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/mluthfifrd/mluthfifrd/output/snake.svg" alt="Snake animation" />
 
 ###
