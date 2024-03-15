@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Luthfi and I interested in Web, Mobile and Backend Developer, I'm from Indonesia.</h2>
+<h1 align="center">Hi 👋, I'm Luthfi</h1>
+
+###
+
+<p align="center">I'm from Indonesia and I interested in Web, Mobile and Backend Developer</p>
 
 ###
 
