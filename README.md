@@ -53,8 +53,8 @@
   <a href="https://www.linkedin.com/in/mluthfifrd/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=mluthfifrd&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:m.luthfifarid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=m.luthfifarid@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:mluthfifs.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=mluthfifs.dev@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
