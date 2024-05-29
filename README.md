@@ -44,8 +44,6 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
 ###
