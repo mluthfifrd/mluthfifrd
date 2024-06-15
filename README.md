@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm from Indonesia and I interested in Web, Mobile and Backend Development</p>
+<p align="center">I'm interested in Web, Mobile and Backend Development</p>
 
 ###
 
