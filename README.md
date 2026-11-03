@@ -14,10 +14,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.simpleicons.org/svelte" height="30" alt="svelte"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro" height="30" alt="astro"  />
+  <img src="https://cdn.simpleicons.org/astro" height="30" alt="astro"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 
@@ -45,10 +45,10 @@
 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.simpleicons.org/claude" height="30" alt="claude"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/claudecode" height="30" alt="claudecode"  />
+  <img src="https://cdn.simpleicons.org/claudecode" height="30" alt="claudecode"  /> -->
 </div>
 
 ###
